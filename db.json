@@ -1,34 +1,31 @@
 {
-  "posts": [
+  "airports": [
     {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+      "id": "132",
+      "name": "Borispol",
+      "ident": "string",
+      "local_code": "string",
+      "region": "string",
+      "type": "string",
+      "country": "string"
     },
     {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
+      "id": "453",
+      "name": "Berlin",
+      "ident": "string",
+      "local_code": "string",
+      "region": "string",
+      "type": "string",
+      "country": "string"
     },
     {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
+      "id": "345",
+      "name": "Munhen",
+      "ident": "string",
+      "local_code": "string",
+      "region": "string",
+      "type": "string",
+      "country": "string"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
+    ]
 }
