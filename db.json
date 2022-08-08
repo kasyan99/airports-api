@@ -5,7 +5,7 @@
       "name": "Borispol",
       "ident": "string",
       "local_code": "string",
-      "region": "string",
+      "region": "region",
       "type": "string",
       "country": "string"
     },
@@ -14,7 +14,7 @@
       "name": "Berlin",
       "ident": "string",
       "local_code": "string",
-      "region": "string",
+      "region": "region",
       "type": "string",
       "country": "string"
     },
@@ -23,7 +23,34 @@
       "name": "Munhen",
       "ident": "string",
       "local_code": "string",
-      "region": "string",
+      "region": "region",
+      "type": "string",
+      "country": "string"
+    },
+    {
+      "id": "444",
+      "name": "Borispol 2",
+      "ident": "string",
+      "local_code": "string",
+      "region": "region",
+      "type": "string",
+      "country": "string"
+    },
+    {
+      "id": "363",
+      "name": "Berlin 2",
+      "ident": "string",
+      "local_code": "string",
+      "region": "region",
+      "type": "string",
+      "country": "string"
+    },
+    {
+      "id": "234",
+      "name": "Munhen 2",
+      "ident": "string",
+      "local_code": "string",
+      "region": "region",
       "type": "string",
       "country": "string"
     }
