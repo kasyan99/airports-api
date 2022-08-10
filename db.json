@@ -81,5 +81,18 @@
      "Ukraine",
      "Germany",
      "Canada"
+    ],
+   "cities":[
+     "Boryspil",
+     "Atlanta",
+     "Washington",
+     "Los Angeles",
+     "Las Vegas",
+     "Toronto",
+     "Montreal",
+     "Vancouver",
+     "Munich",
+     "Frankfurt",
+     "Hamburg"
     ]
  }
