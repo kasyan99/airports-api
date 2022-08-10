@@ -63,36 +63,5 @@
        "country": "Germany",
        "city": "Hamburg"
      }
-     ],
-   "types":[
-     "Commercial Service Airports (Primary)",
-     "Commercial Service Airports (Non-Primary)",
-     "Cargo Service Airports",
-     "Reliever Airports",
-     "General Aviation Airports",
-     "National Airports",
-     "Regional Airports",
-     "Local Airports",
-     "Basic Airports",
-     "Unclassified Airports" 
-    ],
-   "countries":[
-     "USA",
-     "Ukraine",
-     "Germany",
-     "Canada"
-    ],
-   "cities":[
-     "Boryspil",
-     "Atlanta",
-     "Washington",
-     "Los Angeles",
-     "Las Vegas",
-     "Toronto",
-     "Montreal",
-     "Vancouver",
-     "Munich",
-     "Frankfurt",
-     "Hamburg"
-    ]
+     ]
  }
