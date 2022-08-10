@@ -75,5 +75,11 @@
      "Local Airports",
      "Basic Airports",
      "Unclassified Airports" 
+    ],
+     "countries":[
+     "USA",
+     "Ukraine",
+     "Germany",
+     "Canada"
     ]
  }
