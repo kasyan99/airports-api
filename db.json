@@ -3,7 +3,7 @@
      {
        "id": "1",
        "name": "Borispol airport",
-       "type": "Commercial Service Airports (Primary)",
+       "type": "Commercial Service Airports Primary",
        "country": "Ukraine",
        "city": "Boryspil"
      },
@@ -31,14 +31,14 @@
      {
        "id": "5",
        "name": "Las Vegas airport",
-       "type": "Commercial Service Airports (Non-Primary)",
+       "type": "Commercial Service Airports Non-Primary",
        "country": "USA",
        "city": "Las Vegas"
      },
      {
        "id": "6",
        "name": "Toronto airport",
-       "type": "Commercial Service Airports (Non-Primary)",
+       "type": "Commercial Service Airports Non-Primary",
        "country": "Canada",
        "city": "Toronto"
      },
@@ -65,8 +65,8 @@
      }
      ],
    "types":[
-     "Commercial Service Airports (Primary)",
-     "Commercial Service Airports (Non-Primary)",
+     "Commercial Service Airports Primary",
+     "Commercial Service Airports Non-Primary",
      "Cargo Service Airports",
      "Reliever Airports",
      "General Aviation Airports",
