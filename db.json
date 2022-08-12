@@ -94,5 +94,9 @@
      "Munich",
      "Frankfurt",
      "Hamburg"
+    ],
+   "users":[
+      {"id":1, "name": "andrii", "password":"1111"},
+      {"id":2, "name": "vlad", "password":"2222"}
     ]
  }
