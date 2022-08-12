@@ -96,7 +96,7 @@
      "Hamburg"
     ],
    "users":[
-      {"id":1, "name": "andrii", "password":"1111"},
-      {"id":2, "name": "vlad", "password":"2222"}
+      {"id":1, "login": "andrii@gmail.com", "password":"1111"},
+      {"id":2, "login": "vlad@gmail.com", "password":"2222"}
     ]
  }
